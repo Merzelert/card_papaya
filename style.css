@@ -411,7 +411,7 @@ section > div.active {
     text-transform: uppercase;
     width: fit-content;
     display: block;
-    margin: 4em auto;
+    margin: 1em auto;
     cursor: pointer;
     box-shadow: var(--shadow) var(--primary-color);
     transition: background-color .3s, color .3s;
